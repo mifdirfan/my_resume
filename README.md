@@ -1,5 +1,8 @@
 # MIFDZAL IRFAN BIN MARWAN
-**Email**: mifdzalirfan23@gmail.com  
+<img src="passportPhoto.jpg" alt="Mifdzal Irfan" width="150"/>
+
+
+**Email**: mifdzalirfan23@gmail.com
 **GitHub**: [mifdirfan](https://github.com/mifdirfan)
 
 ## 🎓 Education
