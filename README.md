@@ -1,5 +1,5 @@
 # MIFDZAL IRFAN BIN MARWAN
-<img src="passportPhoto.jpg" alt="Mifdzal Irfan" width="150"/>
+<img src="passportPhotos.jpg" alt="Mifdzal Irfan" width="150"/>
 
 
 **Email**: mifdzalirfan23@gmail.com
